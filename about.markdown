@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Koi Travel - Vé Máy Bay. Khách Sạn. Tour Trọn Gói.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Vui lòng liên hệ:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Facebook:** [Bùi Hà Giang](https://www.facebook.com/thuyngancam.neu97)
 
+**Phone:** [+84985481924](tel:+84985481924)
 
-[jekyll-organization]: https://github.com/jekyll
+**Address:** Toà S1.05, Khu đô thị Vinhomes Smart City, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội
